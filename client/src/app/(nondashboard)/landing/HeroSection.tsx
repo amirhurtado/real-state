@@ -14,7 +14,7 @@ const HeroSection = () => {
           src="/hero.svg"
           alt="Landing Image"
           fill
-          className="object-cover  bg-black"
+          className="object-cover bg-black"
         />
       </div>
 
